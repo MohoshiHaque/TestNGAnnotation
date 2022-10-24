@@ -6,7 +6,7 @@ public class TestNGBasics {
 
     @BeforeSuite
     public void setup1(){
-        System.out.println("Mohoshi Process-1");
+        System.out.println("Mohoshi Process-1 ");
     }
 
     @BeforeClass
